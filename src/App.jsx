@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <p className='fw-bold'>hello</p>
+      <p className="fw-bold">hello world!</p>
     </div>
   )
 }
